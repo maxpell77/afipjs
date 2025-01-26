@@ -2,7 +2,7 @@
   "name": "afipjs",
   "version": "1.1.5",
   "description": "Libreria para uso de los Webservices de AFIP con Node.js",
-  "main": "afip.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
